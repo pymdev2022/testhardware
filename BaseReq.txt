@@ -1,2 +1,8 @@
-torch
+# jupyter
+jupyter
+lab
+notebook
+
+#libs
 numpy
+torch
