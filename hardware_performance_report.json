@@ -1,22 +1,13 @@
 {
     "system": {
-        "os": "Darwin",
-        "processor": "arm",
-        "machine": "arm64",
-        "model": "Apple M1",
-        "cores_logical": 8
+        "os": "Linux",
+        "processor": "",
+        "machine": "x86_64"
     },
     "benchmarks": {
         "cpu": {
-            "duration_sec": 0.3212699890136719,
-            "tflops": 0.39841878910934586
-        },
-        "gpu": {
-            "duration_per_iter_sec": 1.6607356071472168,
-            "tflops": 1.2042856137922915
-        },
-        "neural_engine_sim": {
-            "avg_latency_ms": 589.1237545013428
+            "duration_sec": 1.211716890335083,
+            "tflops": 0.10563523626760986
         }
     }
 }
